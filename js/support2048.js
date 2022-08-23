@@ -77,7 +77,7 @@ function getNumberText(number){
 		case 256:return "恩绪"; break;	
 		case 512:return "穷不怕"; break;	
 		case 1024:return "东方朔"; break;	
-		case 2048:return "卢铮"; break	;
+		case 2048:return "卢铮！"; break	;
 		case 4096:return "电工"; break	;
 		case 8192:return "后天也不能努力"; break	;
 	}
